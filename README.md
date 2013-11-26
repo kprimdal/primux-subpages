@@ -1,4 +1,5 @@
-primux-subpages
+
+Primux Subpages
 ===============
 
 Primux Subpages
